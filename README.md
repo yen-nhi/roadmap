@@ -7,4 +7,5 @@
     * Topological sorting
     * Strongly Connected Components
     * Breadth-first search
+    * Bipartite Graphs
     * Dijkstra's
